@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Bag</h1>
 <h3 align="center">A passionate Full-stack and Android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbag2001&label=Profile%20views&color=0e75b6&style=flat" alt="akashbag2001" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 🤝 I’m looking for help with **Web and Android**
+- 🤝 I’m looking for help with **Web && Android**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio20022.netlify.app](https://react-portfolio20022.netlify.app)
 
