@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashbag19" target="blank"><img src="https://img.shields.io/twitter/follow/akashbag19?logo=twitter&style=for-the-badge" alt="akashbag19" /></a> </p>
 
-- 🔭 I’m currently working on **Hulu 2.0(React.js && next.js )**
+- 🔭 I’m currently working on **Medium 2.0(React.js && next.js )**
 
 - 🌱 I’m currently learning **Next.js && React native**
 
