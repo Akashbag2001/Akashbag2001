@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Web && Android**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio20022.netlify.app](https://react-portfolio20022.netlify.app)
+- 👨‍💻 All of my projects are available at [https://personal-3d-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
