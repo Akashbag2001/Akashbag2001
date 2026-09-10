@@ -6,7 +6,6 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Akash Bag</h1>
 
 <h3 align="center">
   A passionate Full-stack and Android developer from India
